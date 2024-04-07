@@ -28,5 +28,4 @@ A collection of slides, personal notes covering 'Electronic Systems Design' meth
 * If you want to have a rich set of illustrations, flow charts, diagrams you want to use in your slides.
 
 #### Licensing
-
-
+Electronic Systems Design Methodology © 2024 by Santosh S Malagi is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ 

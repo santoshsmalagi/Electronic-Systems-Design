@@ -1,5 +1,5 @@
 # Electronic-Systems-Design
-A collection of slides, personal notes covering 'Electronic Systems Design' methodologies and ecosystem. The depth of material is akin to a ‘motivational’ or ‘101’ lecture given in relevant EE/CE courses. Limited to my knowledge and experience gained in the past 4.5 years :)
+A collection of slides, personal notes covering 'Electronic Systems Design' methodologies and ecosystem. The depth of material is akin to a ‘motivational’ or ‘101’ lecture given in relevant EE/CE courses. Limited to my knowledge and experience gained in the past 5 years :)
 
 #### What is covered?
 * Economics of Electronic Systems Design (ESD)
